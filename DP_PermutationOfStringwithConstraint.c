@@ -70,5 +70,5 @@ int main() {
 }
 
 //
-// Recursion Program : Complexity - exponential
+// Complexity : O(n)
 //
